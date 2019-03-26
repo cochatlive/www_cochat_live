@@ -36,9 +36,7 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "сanonical-url": "",
-    "publishType": "local",
-    "publishPath": "file:///Users/adnanfatayerji/Desktop/Websites/Cochat.live/www_cochat_live"
+    "сanonical-url": ""
   },
   "pages": {
     "index.html": {
